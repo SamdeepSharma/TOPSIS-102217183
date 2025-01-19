@@ -5,7 +5,7 @@ A Python package to implement the TOPSIS method for multi-criteria decision-maki
 ## Installation
 
 ```bash
-pip install Topsis-Ayush-102203840 
+pip install Topsis-Samdeep-102217183
 ```
 
 ## Usage
