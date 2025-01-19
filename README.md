@@ -1,26 +1,26 @@
 # Topsis-Samdeep-102217183
 
-A Python package for implementing the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method, used for multi-criteria decision analysis.
+A Python package to implement the TOPSIS method for multi-criteria decision-making. TOPSIS ranks alternatives based on their similarity to the ideal solution and distance from the worst-case scenario. It simplifies complex decision analysis by evaluating multiple criteria and providing a clear ranking, making it an effective tool for informed and objective decision-making in various fields.
 
 ## Installation
 
-bash
-pip install Topsis-Samdeep-102217183 
-
+```bash
+pip install Topsis-Ayush-102203840 
+```
 
 ## Usage
 
 The package can be used through command line:
 
-bash
+```bash
 topsis <InputDataFile> <Weights> <Impacts> <ResultFileName>
-
+```
 
 ### Example
 
-bash
+```bash
 topsis data.xlsx "1,1,1,1,1" "+,+,+,+,+" output.csv
-
+```
 
 ### Input Format
 * Input File:
