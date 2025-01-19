@@ -46,6 +46,5 @@ MIT License
 
 ## Author
 Samdeep Sharma
-Roll Number: 102217183
 
 If you have any questions or suggestions, feel free to reach out!
